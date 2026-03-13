@@ -70,10 +70,11 @@ ALWAYS
 	LAF autotra_workaround END
 
 	ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
-//  ACTION_DEFINE_ARRAY PoF_noconvert BEGIN END
 
-		ACTION_DEFINE_ARRAY PoF_reload BEGIN Setup-Paladins-of-Faerun Journal XGBOOKP END
-
+		ACTION_DEFINE_ARRAY PoF_noconvert BEGIN Setup-Paladins-of-Faerun END
+		
+		ACTION_DEFINE_ARRAY PoF_reload BEGIN Journal XGBOOKP END
+		
 			LAF HANDLE_CHARSETS
 				INT_VAR
 				infer_charsets = 1
@@ -81,7 +82,7 @@ ALWAYS
 				tra_path = EVAL ~weidu_external/Paladins-of-Faerun/Languages/autotra~
 				out_path = EVAL ~weidu_external/Paladins-of-Faerun/Languages/autotra/UTF8~
 				iconv_path = ~Paladins-of-Faerun/Languages/autotra/iconv~
-				// noconvert_array = PoF_noconvert
+				noconvert_array = PoF_noconvert
 				reload_array = PoF_reload
 			END
 
@@ -130,6 +131,13 @@ LANGUAGE	~Main English / Francais Partiel~
 			~Paladins-of-Faerun/Languages/French/Journal.tra~
 			~Paladins-of-Faerun/Languages/French/XGBOOKP.tra~
 			//~Paladins-of-Faerun/Languages/French/Journal.tra~
+
+LANGUAGE	~Schinese~
+			~Schinese~
+			~Paladins-of-Faerun/Languages/Schinese/SETUP-Paladins-of-Faerun.tra~
+			~Paladins-of-Faerun/Languages/Schinese/Journal.tra~
+			~Paladins-of-Faerun/Languages/Schinese/XGBOOKP.tra~
+			//~Paladins-of-Faerun/Languages/Schinese/Journal.tra~
 
 
 ///////////////////////////////////

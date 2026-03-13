@@ -1,0 +1,799 @@
+////XGBOOKP.itm - BOOKPR.itm////
+
+@2000 = ~魔法书~
+@2003 = ~译员魔法书~ ~欧格玛信徒魔法书~
+@2001 = ~这本魔典由欧格玛的信徒为一群试图改变世界的冒险者团队所创造。直到不久前，这个团队还在费伦大陆上四处游历，试图用他们称之为"捷克语"的奇特语言教导每一个与他们相遇的人。借助这本书，冒险者们能与欧格玛的祭司们交流，而祭司们在这项艰巨的任务中常常给予他们极大的帮助。
+
+
+书的第一页上有一段颇为奇特的献词：
+
+
+  我们，BG2CZ 团队，将这本书献给你，<CHARNAME>，愿它永远让你想起那群冒险者，他们为你的到来铺平了费伦大陆的道路，并教会了这里的居民用你的母语说话。将来，如果某个愚蠢的小恶魔或卓尔让你恼火，因为我们没能把他教好，让你想用母语咒骂那可怜虫之前，请先为我们教会了每一个学好你母语的家伙而赞扬我们。
+
+
+第二页列出了所有参与此项工作的人员名单：
+
+
+团队领袖，在旅程末期饱受疯狂折磨者：
+    Adam "Christof" Rambousek
+感谢所有人，贡献均等，唯恐遗漏任何一人。
+
+为其他成员创造了文字和合适魔法工具者：
+    Payoch
+    PeZ
+
+主角名字的变格主要由以下人员完成：
+    Josef Drobn
+
+您一定会注意到的客串演出：
+    Korgan - Thalen, Mirek Pospíil
+    Lilarcor - Somnambulus
+
+教会费伦居民捷克语者：
+    Josef Drobn
+    Mirek Pospíil
+    Eljarad
+    Jií "Arahant" Holeek,
+    Thalen
+    Luká Rube
+    Jií Havlík
+    Zdeněk Králíek
+    Zuzka Trundová
+    David "IN" Hanáek
+    Jií ima
+    Martin Mostek
+    Foolisher
+    Adam Wicher, Petr Matuina, Tomá Hertl, Jaroslav Matouek, Ondra Vencovsk, Declon, Ady, Mikis, Martin Olovsk, Jan Klos, Matou Jaluka, Pavel Stingl, Tomá "Claar" Jirouek, Somnambulus, Lucie mídová, Arthur, Jií "Bur" Rube, Mirek, Shadow, Jií Janák, Marcus de Tycho, Panamon, Pavel Kikava, Martin Koí, PeZ, Pavel Kelbl, Tomá Janta, Tomahawk, Mirek Krupa, Kuba Verbovsk, Tomá "Gyngy" Repák, QaQ, Vojtěch efler, Luká "BIT-mág" Dunajík, Bypass, Honza Haubner, Lishak, Jan Kravík, Martin Zmekal, Radek "Spider" Prcha, S. Sejkora, Gawein, Runner, Pavel "pauL" Dvoák, Peter Kremel, Redman, Dawe, Mirek Sadílek
+
+许多人与他们用捷克语交谈，并建议他们避免错误者：
+    CEON
+    Divoka Jája
+    Jan Kravík
+    Jan Novotn
+    Jií "Bur" Rube
+    Lojza
+    Pavel Kuera
+    POLIS
+    Snah
+    Tomá Písek
+    Vladimír Vaněk
+    Zdendys
+
+
+后续书页中有一个非常详尽的词典，团队显然经常使用它，因为书页皱巴巴的，还常常溅有墨水和各种其他液体。
+
+--= 法术 =--
+
+Illusion/Phantasm - 幻术系
+Necromancy - 死灵系
+Summoning - 召唤系
+Conjuration - 咒法系
+Alteration - 变化系
+Abjuration - 防护系
+Divination - 预言系
+Enchantment/Charm - 附魔系/魅惑系
+Evocation - 塑能系
+Invocation - 祈唤系
+
+法师
+等级 1
+
+英文 - 中文
+
+Armor - 护甲术
+Blindness - 目盲术
+Burning Hands - 燃烧之手
+Charm person - 魅惑人类
+Chill touch - 寒冷之触
+Chromatic orb - 七彩球
+Colour spray - 彩色喷射
+Find familiar - 寻找魔宠
+Friends - 友好术
+Grease - 油腻术
+Identify - 鉴定术
+Infravision - 红外视觉
+Larloch's Minor Drain - 拉洛克弱能汲取
+Magic Missile - 魔法飞弹
+Nahal's Reckless Dweomer - 纳哈尔鲁莽狂乱术
+Protection from Evil - 防护邪恶
+Protection from Petrification - 防护石化
+Reflected Image - 反射镜像
+Shield - 护盾术
+Shocking Grasp - 电爪
+Sleep - 睡眠术
+Spook - 幽灵术
+
+
+等级 2
+
+Agannazar's Scorcher - 阿加纳扎尔灼热喷射
+Blur - 朦胧术
+Chaos Shield - 混沌护盾
+Deafness - 耳聋术
+Detect Invisibility - 侦测隐形
+Ghoul Touch - 食尸鬼之触
+Glitterdust - 闪光尘
+Horror - 惊恐术
+Invisibility - 隐形术
+Knock - 敲击术
+Know Alignment - 知晓阵营
+Luck - 幸运术
+Melf's Acid Arrow - 梅尔夫强酸箭
+Mirror Image - 镜影术
+Power Word: Sleep - 律令：睡眠
+Ray of Enfeeblement - 虚弱射线
+Resist Fear - 抵抗恐惧
+Stinking Cloud - 臭云术
+Strength - 牛之力量
+Vocalize - 出声术
+Web - 蛛网术
+
+
+等级 3
+
+Clairvoyance - 千里眼
+Detect Illusion - 侦测幻术
+Dire Charm - 强效魅惑
+Dispel Magic - 解除魔法
+Fireball - 火球术
+Flame Arrow - 火焰箭
+Ghost Armor - 鬼灵护甲
+Haste - 加速术
+Hold Person - 人类定身术
+Hold Undead - 定身亡灵
+Invisibility 10' radius - 隐形术 10英尺半径
+Lightning Bolt - 闪电束
+Melf's Minute Meteors - 梅尔夫微流星
+Minor Spell Deflection - 小型法术偏转
+Monster Summoning I - 怪物召唤术 I
+Non-detection - 免侦测
+Protection From Cold - 防护寒冷
+Protection From Fire - 防护火焰
+Protection from Normal Missiles - 防护普通投射物
+Remove Magic - 移除魔法
+Skull Trap - 骷髅陷阱
+Slow - 缓慢术
+Spell Thrust - 法术反制
+Vampiric Touch - 吸血鬼之触
+
+
+等级 4
+
+Confusion - 困惑术
+Contagion - 传染术
+Emotion: Hopelessness - 情感：绝望
+Enchanted Weapon - 附魔武器
+Farsight - 远视术
+Fireshield (Blue) - 火焰护盾 (蓝)
+Fireshield (Red) - 火焰护盾 (红)
+Greater Malison - 高等恶意
+Ice Storm - 冰风暴
+Improved Invisibility - 高等隐形术
+Minor Globe of Invulnerability - 小型法术无效结界
+Minor Sequencer - 小型法术定序器
+Monster Summoning II - 怪物召唤术 II
+Otiluke's Resilient Sphere - 欧提路克弹性法球
+Polymorph Other - 变形他人
+Polymorph Self - 变形自我
+Remove Curse - 移除诅咒
+Secret Word - 密语术
+Spider Spawn - 蜘蛛产卵
+Spirit Armor - 灵体护甲
+Stoneskin - 石肤术
+Teleport Field - 传送场
+Wizard Eye - 巫师之眼
+
+
+等级 5
+
+Animate Dead - 操纵死尸
+Breach - 破解术
+Chaos - 混沌术
+Cloudkill - 死云术
+Cone of Cold - 寒冰锥
+Conjure Lesser Air Elemental - 召唤次级气元素
+Conjure Lesser Earth Elemental - 召唤次级土元素
+Conjure Lesser Fire Elemental - 召唤次级火元素
+Domination - 支配术
+Feeblemind - 弱智术
+Hold Monster - 怪物定身术
+Lower Resistance - 降低抗力
+Minor Spell Turning - 小型法术反转
+Monster Summoning III - 怪物召唤术 III
+Oracle - 神谕术
+Phantom Blade - 幻影之剑
+Protection From Acid - 防护强酸
+Protection From Electricity - 防护闪电
+Protection from Normal Weapons - 防护普通武器
+Shadow Door - 影门术
+Spell Immunity - 法术免疫
+Spell Shield - 法术护盾
+Sunfire - 阳炎
+
+
+等级 6
+
+Carrion Summons - 召唤食腐虫
+Chain Lightning - 连环闪电
+Conjure Air Elemental - 召唤气元素
+Conjure Earth Elemental - 召唤土元素
+Conjure Fire Elemental - 召唤火元素
+Contingency - 触发术
+Death Fog - 死亡之雾
+Death Spell - 死亡术
+Disintegrate - 解离术
+Flesh to Stone - 石化术
+Globe of Invulnerability - 法术无效结界
+Improved Haste - 高等加速术
+Invisible Stalker - 隐形潜伏者
+Mislead - 误导术
+Pierce Magic - 穿透魔法
+Power Word Silence - 律令：沉默
+Protection From Magic Energy - 防护魔法能量
+Protection from Magical Weapons - 防护魔法武器
+Spell Deflection - 法术偏转
+Stone to Flesh - 解除石化
+Summon Nishruu - 召唤尼什鲁
+Tenser's Transformation - 坦瑟变化术
+True Sight - 真实视域
+Wyvern Call - 召唤双足飞龙
+
+
+等级 7
+
+Cacofiend - 召唤恶魔
+Control Undead - 控制亡灵
+Delayed Blast Fireball - 延迟爆裂火球
+Finger of Death - 死亡之指
+Improved Chaos Shield - 高等混沌护盾
+Limited Wish - 有限祈愿术
+Mantle - 魔法护罩
+Mass Invisibility - 群体隐形
+Mordenkainen's Sword - 魔邓肯之剑
+Power Word, Stun - 律令：震慑
+Prismatic Spray - 虹光喷射
+Project Image - 投影术
+Protection from the Elements - 防护元素伤害
+Ruby Ray of Reversal - 反转红宝石射线
+Spell Sequencer - 法术定序器
+Spell Turning - 法术反转
+Sphere of Chaos - 混沌法球
+Summon Djinni - 召唤风巨灵
+Summon Efreeti - 召唤火巨灵
+Summon Hakeashar - 召唤哈克沙
+Khelben's Warding Whip - 凯尔本护体鞭
+
+
+等级 8
+
+Abi-Dalzim's Horrid Wilting - 阿比达尔齐姆枯萎术
+Bigby's Clenched Fist - 毕格比金刚拳
+Improved Mantle - 高等魔法护罩
+Incendiary Cloud - 焚云术
+Maze - 迷宫术
+Pierce Shield - 穿透护盾
+Power Word Blind - 律令：目盲
+Protection from Energy - 防护能量
+Simulacrum - 拟像术
+Spell Trigger - 法术启动
+Summon Fiend - 召唤妖魔
+Symbol, Death - 死亡徽记
+Symbol, Fear - 恐惧徽记
+Symbol, Stun - 震慑徽记
+
+
+等级 9
+
+Absolute Immunity - 绝对免疫
+Bigby's Crushing Hand - 毕格比粉碎掌
+Black Blade of Disaster - 灾厄黑刃
+Chain Contingency - 连锁触发术
+Energy Drain - 能量汲取
+Freedom - 自由术
+Gate - 异界之门
+Imprisonment -  imprisonment
+Meteor Swarm - 流星爆
+Power Word, Kill - 律令：死亡
+Shapechange - 形体变化
+Spellstrike - 法术重击
+Spell Trap - 法术陷阱
+Time Stop - 时间停止
+Wail of the Banshee - 女妖之嚎
+Wish - 祈愿术
+
+
+等级 10
+Comet - 彗星术
+Dragon's Breath - 龙息术
+Energy Blades - 能量之刃
+Improved Alacrity - 高等迅捷
+Summon Dark Planetar - 召唤黑暗炽天神侍
+Summon Planetar - 召唤炽天神侍
+
+
+牧师
+等级 1
+
+Armor of Faith - 信仰护甲
+Bless - 祝福术
+Command Word: Die - 命令：死
+Cure Light Wounds - 治疗轻伤
+Detect Evil - 侦测邪恶
+Doom - 厄运术
+Entangle - 纠缠术
+Magical Stone - 魔法石
+Protection from Evil - 防护邪恶
+Remove Fear - 移除恐惧
+Sanctuary - 圣域术
+Shillelagh - 橡棍术
+
+
+等级 2
+
+Aid - 援助术
+Barkskin - 树皮术
+Chant - 吟唱术
+Charm Person or Mammal - 魅惑人类或哺乳动物
+Draw Upon Holy Might - 借用神力
+Find Traps - 寻找陷阱
+Flame Blade - 火焰刀
+Goodberry - 神莓术
+Hold Person - 人类定身术
+Know Alignment - 知晓阵营
+Resist Fire and Cold - 抵抗火与冷
+Silence, 15' Radius - 沉默术 15英尺半径
+Slow Poison - 延缓毒发
+Spiritual Hammer - 灵锤术
+
+
+等级 3
+
+Animate Dead - 操纵死尸
+Call Lightning - 召唤雷电
+Cure Disease - 治愈疾病
+Cure Medium Wounds - 治疗中伤
+Dispel Magic - 解除魔法
+Glyph of Warding - 守卫刻文
+Hold Animal - 动物定身术
+Holy Smite - 神圣打击
+Invisibility Purge - 消除隐形
+Miscast Magic - 施法干扰
+Protection from Fire - 防护火焰
+Remove Curse - 移除诅咒
+Remove Paralysis - 解除麻痹
+Rigid Thinking - 思维僵硬
+Strength of One - 合一之力
+Summon Insects - 召唤昆虫
+Unholy Blight - 邪灵疫光
+Zone of Sweet Air - 清新空气区域
+
+
+等级 4
+
+Animal Summoning I - 动物召唤 I
+Call Woodland Beings - 召唤林地生物
+Cause Serious Wounds - 造成重伤
+Cloak of Fear - 恐惧斗篷
+Cure Serious Wounds - 治疗重伤
+Death Ward - 死亡护罩
+Defensive Harmony - 防御和谐
+Farsight - 远视术
+Free Action - 自由行动
+Holy Power - 神圣之力
+Lesser Restoration - 次级复原术
+Mental Domination - 精神支配
+Negative Plane Protection - 负界防护
+Neutralize Poison - 中和毒素
+Poison - 毒击术
+Protection From Evil 10' Radius - 防护邪恶 10英尺半径
+Protection From Lightning - 防护闪电
+
+
+等级 5
+
+Animal Summoning II - 动物召唤 II
+Cause Critical Wounds - 造成致命伤
+Chaotic Commands - 混沌命令
+Cure Critical Wounds - 治疗致命伤
+Champion's Strength - 勇士之力
+Flame Strike - 焰击术
+Greater Command - 高等命令术
+Insect Plague - 虫灾术
+Iron Skins - 铁皮术
+Magic Resistance - 魔法抗力
+Mass Cure - 群体治疗
+Pixie Dust - 小精灵尘
+Raise Dead - 死者复活
+Repulse Undead - 斥退亡灵
+Righteous Magic - 正义魔法
+Slay Living - 杀生术
+True Seeing - 真实视域
+
+
+等级 6
+
+Aerial Servant - 空中仆人
+Animal Summoning III - 动物召唤 III
+Blade Barrier - 剑刃屏障
+Bolt of Glory - 荣耀之箭
+Conjure Animals - 召唤动物
+Conjure Fire Elemental - 召唤火元素
+Dolorous Decay - 悲伤腐朽
+False Dawn - 虚假黎明
+Fire Seeds - 火焰种子
+Harm - 重伤术
+Heal - 医疗术
+Physical Mirror - 物理镜像
+Sol's Searing Orb - 索尔灼热球
+Wondrous Recall - 奇妙回忆
+
+
+等级 7
+
+Confusion - 困惑术
+Conjure Earth Elemental - 召唤土元素
+Creeping Doom - 疫病虫群
+Earthquake - 地震术
+Finger of Death - 死亡之指
+Fire Storm - 火风暴术
+Gate - 异界之门
+Holy Word - 圣言术
+Nature's Beauty - 自然之美
+Greater Restoration - 高等复原术
+Resurrection - 复生术
+Shield of the Archons - 执政官护盾
+Sunray - 阳炎射线
+Symbol, Stun - 震慑徽记
+Symbol, Death - 死亡徽记
+Symbol, Fear - 恐惧徽记
+Unholy Word - 邪言术
+
+
+等级: 恩惠等级
+
+Aura of Flaming Death - 烈焰死亡光环
+Elemental Summoning - 元素召唤
+Elemental Transformation (Earth) - 元素变化 (土)
+Elemental Transformation (Fire) - 元素变化 (火)
+Globe of Blades - 剑刃法球
+Greater Elemental Summoning - 高等元素召唤
+Implosion - 内爆术
+Mass Raise Dead - 群体死者复活
+Storm of Vengeance - 复仇风暴
+Summon Deva - 召唤天人
+Summon Fallen Deva - 召唤堕落天人
+
+
+--= 城市，村庄，地点 =--
+
+Umar hills - 乌玛丘陵
+Imnesvale - 伊姆内斯谷
+Windspear Hills - 风矛丘陵
+Trademeet - 贸易集会
+Cloakwood - 斗篷森林
+Wood of Sharp Teeth - 锐齿森林
+Cloudpeaks - 云峰山脉
+Underdark - 幽暗地域
+Waterdeep - 深水城
+Inner sea - 内海
+Forest of Tethir - 泰瑟尔森林
+
+City o' Coin - 钱币之城
+Spellhold - 咒语牢笼
+Asylum - 疗养院
+Lower tombs - 下层墓穴
+
+Bridge district - 桥区
+Docks district - 码头区
+Government District - 政府区
+Graveyard District - 墓园区
+Slums District - 贫民区
+Temple District - 神殿区
+Waukeen's Promenade - 沃金广场
+
+Friendly Arms - 友好之臂旅店
+Candlekeep - 烛堡
+Baldur's Gate - 博德之门
+Sword Coast - 剑湾
+
+酒馆，客栈及其他建筑：
+
+Five Flagons - 五壶酒馆
+Copper Coronet - 铜冠旅店
+Adventurer's Mart - 冒险者商场
+Sea's Bounty - 海的恩赐
+Crooked Crane - 曲颈鹤旅店
+Lady Galvena's Parlor - 加尔文娜女士会客厅
+Vulgar Monkey - 粗俗猴子酒馆
+Den of Seven vales - 七谷之巢
+
+协会，公会，社团：
+
+Cowled wizards - 蒙面巫师
+Night Knives - 夜匕
+Most Noble Order of the Radiant Heart - 至崇高光辉之心骑士团
+Council of Six - 六人议会
+Flaming Fist - 焰拳佣兵团
+Iron Throne - 铁王座
+Shadow Thieves - 影贼
+Shadow Druids - 影德鲁伊
+Zhents,Zhentarim - 散塔林会
+Seven Suns - 七阳公会
+Mechant League - 商人联盟
+Harpers - 竖琴手同盟
+Harper Hold - 竖琴手要塞
+Sigil theatre troupe (group) - 印记城剧团
+Enlightened Ones - 开悟者
+Cult of the Eyeless - 无眼教派
+Gibbering Twelve - 胡言十二众
+guild - 公会
+Avariel - 阿凡瑞尔精灵
+
+通用术语，头衔，约定译法：
+
+fair folk - 优雅之民
+rivvin - 瑞文人
+rivvil - 瑞维尔
+dweomer - 魔法技艺
+
+Magistrate - 地方法官
+
+Staff of Thunder and Lightning - 雷霆闪电杖
+Rhynn Lanthorn - 林恩提灯
+plannar sphere - 位面球
+scimitar - 弯刀
+Nether scroll - 冥界卷轴
+Tear of Bhaal - 巴尔之泪
+Jan Jansen's Flasher Master Bruiser - 扬·詹森闪光大师打手
+Volo's Guides - 瓦罗指南
+Pit of the Faithless - 无信者之坑
+Mithril Token - 秘银徽章
+cabin - 小木屋
+
+Blackrazor - 黑刃
+
+Temple of the dawn - 黎明神殿
+Temple of the Watcher - 守望者神殿
+Temple of the Stormlord - 风暴领主神殿
+
+Shadow altar - 暗影祭坛
+Shadow portal - 暗影传送门
+Shadow Lord - 暗影之主
+
+Time of Troubles - 动荡之年
+The Year of The Burning Sky - 燃空之年
+The Year of the Harvest of Scales - 鳞收之年
+Scale - 鳞片
+Seeker - 探寻者
+
+异度风景相关
+Plane - 位面
+tiefling - 提夫林
+Doomguard - 末日卫士团
+Plane of Air - 气元素位面
+Primes - 主物质位面居民
+Plane of Dust - 尘埃位面
+Quasi-Elemental Plane of Dust - 准元素位面【尘埃】
+Planeswalker - 位面行者
+Prime Material (plane) - 主物质位面
+Outer Planes - 外层位面
+Abyss - 无底深渊
+Lady of Pain - 痛苦女士
+Blood War - 血战
+Astral - 星界位面
+multiverse - 多元宇宙
+cambion - 坎比翁
+Fated - 命运者
+
+--= 种族，职业 =--
+
+dwarf - 矮人
+halfling - 半身人
+half-elf - 半精灵
+half-orc - 半兽人
+gnome - 侏儒
+
+fighter - 战士
+ranger - 游侠
+paladin - 圣武士
+cleric - 牧师
+druid - 德鲁伊
+thief - 盗贼
+bard - 诗人
+mage - 法师
+wizard - 巫师
+sorcerer - 术士
+monk - 武僧
+barbarian - 野蛮人
+
+怪物：
+
+beholder - 眼魔
+carrion crawler - 食腐虫
+djinn - 风巨灵
+drow - 卓尔
+dryad - 树精
+gargoyle - 石像鬼
+genie - 巨灵
+ghoul - 食尸鬼
+giant - 巨人
+gibberling - 语嚎怪
+Grey ones - 灰矮人
+griffon - 狮鹫
+hobgoblin - 大地精
+jelly - 胶质怪
+kobold - 狗头人
+lich - 巫妖
+Mimic - 拟形怪
+mindflayer - 夺心魔
+miniature giant space hamster - 迷你巨型太空仓鼠
+necromancer - 死灵法师
+ogre - 食人魔
+ooze - 软泥怪
+orog - 奥罗格兽人
+rakshasa - 拉卡沙
+red dragon - 红龙
+shadow dragon - 影龙
+silver dragon - 银龙
+skeleton - 骷髅
+spectre - 幽灵
+spirit - 灵魂
+werewolf - 狼人
+wolfwere - 人狼
+wyrm - 龙兽
+wyvern - 双足飞龙
+
+头衔，名字：
+
+Shadowmaster - 暗影大师
+Shade Lord - 幽影之主
+Morninglord - 黎明之主
+Stormlord - 风暴之主
+Dawnbringer - 黎明使者
+Great Guard - 高阶守卫
+Herald - 传令官
+High Heralds - 高阶传令官
+Chief Inspector - 总督察
+weaponmaster - 武器大师
+master of weapons - 兵器大师
+viceregent - 代理执政官
+Fairy Queen - 妖精女王
+Challenge Master - 挑战大师
+Spider Queen - 蜘蛛女王
+Matron - 主母
+Handmaiden - 侍女
+High Merchant - 高阶商人
+Shark-Father - 鲨鱼之父
+Exile - 流放者 (艾瑞尼卡斯在精灵中的称呼)
+Coordinator - 协调者 (艾瑞尼卡斯在疗养院中的称呼)
+guildmaster - 公会会长
+Avatar - 化身
+Pirate Lord - 海盗之王
+One = 唯一者
+
+Raging One - 狂怒者
+Hidden - 隐藏者
+Unseeing Eye - 无眼者
+
+Renal Bloodscalp - 雷纳尔·血颅
+Korgan Bloodaxe - 科根·血斧
+Gorf the Squisher - 挤压者高夫
+Lolth - 罗丝   (蜘蛛神后)
+
+德鲁伊等级制度
+1 - Initiate = 入门者
+2 - Druid = 德鲁伊
+3 - Archdruid = 大德鲁伊
+4 - Great Druid = 权杖德鲁伊
+5 - Grand Druid = 至高德鲁伊 (男) / 评议者 (女)
+
+
+--= 神祇 =--
+
+Auril - 欧吕尔 (寒冬女神)
+Azuth - 阿祖斯 (法师之神)
+Bane - 班恩 (纷争、暴政、仇恨之神)
+Beshaba - 本莎芭 (厄运女神)
+Bhaal - 巴尔 (谋杀之神)
+Chauntea - 裳提亚 (农业、自然女神)
+Cyric - 希瑞克 (谎言、谋杀、暴政之神)
+Deneir - 迪尼尔 (文学、书写之神)
+Eldath - 埃达丝 (宁静、泉水女神)
+Gond - 贡德 (工艺、建造之神)
+Helm - 海姆 (守护、保护之神)
+Ilmater - 伊尔马特 (坚忍、苦难、殉教之神)
+Lathander - 兰森德 (黎明、春天、新生之神)
+Leira - 莱拉 (幻象、欺骗女神)
+Lliira - 黎尔拉 (欢乐、舞蹈、自由女神)
+Loviatar - 劳薇塔 (痛苦、苦难女神)
+Malar - 马拉 (野兽、狩猎之神)
+Mask (=Maska) - 马斯克 (盗贼、阴谋之神)
+Mielikki - 梅莉凯 (森林女神)
+Milil - 密里耳 (诗歌、歌曲、演说之神)
+Myrkul - 米尔寇 (死亡之神)
+Mystra - 密斯特拉 (魔法女神)
+Oghma - 欧格玛 (知识、发明之神)
+Selune - 苏伦 (月神、星辰、导航者)
+Shar - 莎尔 (黑暗、失落、遗忘女神)
+Silvanus - 西凡纳斯 (自然之神)
+Sune - 淑娜 (爱情、美丽、激情女神)
+Talona - 塔洛娜 (疾病、毒药女神)
+Talos - 塔洛斯 (风暴、毁灭之神)
+Tempus - 坦帕斯 (战争之神)
+Torm - 托姆 (忠诚、圣武士保护神)
+Tymora - 泰摩拉 (幸运女神)
+Tyr - 提尔 (正义之神)
+Umberlee - 安博里 (海洋、潮汐女神)
+Waukeen - 沃金 (贸易、金钱、财富女神)
+
+万物之上，众神之主为 艾欧
+
+
+精灵神系
+整个神系称为 塞尔达林
+Corellon Larethian - 柯瑞隆·拉瑞辛 (精灵创造者，精灵神系之首)
+   关于性别，原话"柯瑞隆以两种性别显现"
+Aerdrie Faenya - 艾德莉·法恩雅 (天空、天气、丰饶女神)
+Deep Sashelas - 深海·赛瑟拉 (海洋之神)
+Erevan Ilesere - 艾瑞芬·伊拉希尔 (变化、盗贼之神)
+Fenmarel Mestarine - 芬玛雷尔·梅斯塔林 (流浪者之神)
+Hanali Celanil - 罕娜莉·瑟拉尼尔 (浪漫、美丽女神)
+Labelas Enoreth - 拉贝拉斯·埃诺瑞斯 (时间、长寿之神)
+Rillifane Rallathil - 瑞里芬·莱勒希尔 (荒野、野精灵之神)
+Sehanine - 莎罕妮 (月神)
+Solonor Thelandira - 索罗诺尔·杉岚德瑞 (狩猎、箭术之神)
+
+矮人神系
+Moradin - 莫拉丁 (矮人创造者，矮人神系之首)
+Abbathor - 阿巴索 (唯一邪恶的矮人之神)
+Berronar Truesilver - 蓓伦妮·真银 (婚姻、爱情、家庭女神)
+Clangeddin Silverbeard - 克兰贾汀·银须 (战争之神)
+Dugmaren Brightmantle - 杜格马伦·明罩 (探索、发明之神)
+Dumathoin - 杜马松 (采矿、地下探索之神)
+Gorm Gultyn - 高姆·古尔廷 (矮人保护与守卫之神)
+Haela Brightaxe - 海拉·明斧 (战士、旅行者女神)
+Marthammor Duin - 马萨摩·杜因 (旅者之神)
+Sharindlar - 谢恩·菈尔 (医疗、慈悲女神)
+Vergdain - 维尔格登 (财富、幸运之神)
+
+半身人神系
+Yondalla - 悠妲菈 (神系之首，半身人守护神)
+Arvoreen - 阿梵瑞恩 (战争之神)
+Brandobaris - 布兰多巴利斯 (冒险者、盗贼之神)
+Cyrrollalee - 希萝拉莉 (家园、友谊、信任女神)
+Sheela Peryroyl - 希拉·佩丽洛尔 (自然、天气、农业、爱情女神)
+Urogalan - 尤洛加兰 (死亡、大地之神)
+Tymora - 泰摩拉 (见前，半身人也信奉她)
+
+侏儒神系
+Garl Glittergold - 加尔·闪金 (侏儒神系之首，智慧之神)
+Baervan Wildwanderer - 巴尔凡·野游者 (旅行、自然之神)
+Baravar Cloakshadow - 巴拉瓦·影袍 (幻象、欺骗、诡计之神)
+Flandal Steelskin - 弗尔丹·钢肤 (矿业、锻造之神)
+Gaerdal Ironhand - 盖尔达·铁手 (战争之神)
+Segojan Earthcaller - 塞戈贾·地唤者 (自然、大地之神)
+Urdlen - 尤尔登 (邪恶、堕落、嗜血之神)
+Gond Wonderbringer - 贡德·奇械之神 (见前，技艺之神)
+
+其他种族神祇
+仅少量节选
+
+龙神
+Asgorath - 艾斯格拉司 (主要龙神)
+Zorquan - 佐尔奎安 (龙性之神)
+Xymor - 赛莫尔 (正义龙神)
+Hlal - 赫拉尔 (幽默龙神)
+
+卓尔神系
+Lolth (或 Lloth) - 罗丝 (最著名的卓尔女神，蜘蛛神后)
+Eilistraee - 伊莉丝翠 (善良卓尔女神)
+Ghaunadaur - 高纳达 (叛逆者之神)
+Vhaeraun - 维瑞雯 (盗贼之神)
+
+夺心魔神系
+Ilsensine - 艾森森 (主神之一，据信灵吸怪终将借此统治世界)
+
+食人魔与巨魔神系
+Vaprak - 瓦普拉克 (独臂之神，司掌疯狂与杀戮)
+~
+[文件内容结束]
