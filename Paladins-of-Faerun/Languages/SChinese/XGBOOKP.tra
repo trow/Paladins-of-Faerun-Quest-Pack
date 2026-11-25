@@ -8,7 +8,7 @@
 书的第一页上有一段颇为奇特的献词：
 
 
-  我们，BG2CZ 团队，将这本书献给你，<CHARNAME>，愿它永远让你想起那群冒险者，他们为你的到来铺平了费伦大陆的道路，并教会了这里的居民用你的母语说话。将来，如果某个愚蠢的小恶魔或卓尔让你恼火，因为我们没能把他教好，让你想用母语咒骂那可怜虫之前，请先为我们教会了每一个学好你母语的家伙而赞扬我们。
+  我们，BG2CZ 团队，将这本书献给你，<CHARNAME>，愿它永远让你想起那群冒险者，他们为你的到来铺平了费伦大陆的道路，并教会了这里的居民用你的母语说话。将来，如果某个愚蠢的小魔鬼或卓尔让你恼火，因为我们没能把他教好，让你想用母语咒骂那可怜虫之前，请先为我们教会了每一个学好你母语的家伙而赞扬我们。
 
 
 第二页列出了所有参与此项工作的人员名单：
@@ -120,7 +120,7 @@ Know Alignment - 知晓阵营
 Luck - 幸运术
 Melf's Acid Arrow - 梅尔夫强酸箭
 Mirror Image - 镜影术
-Power Word: Sleep - 律令：睡眠
+Power Word: Sleep - 律令：沉睡
 Ray of Enfeeblement - 虚弱射线
 Resist Fear - 抵抗恐惧
 Stinking Cloud - 臭云术
@@ -267,7 +267,7 @@ Khelben's Warding Whip - 凯尔本护体鞭
 等级 8
 
 Abi-Dalzim's Horrid Wilting - 阿比达尔齐姆枯萎术
-Bigby's Clenched Fist - 毕格比金刚拳
+Bigby's Clenched Fist - 比格拜金刚拳
 Improved Mantle - 高等魔法护罩
 Incendiary Cloud - 焚云术
 Maze - 迷宫术
@@ -285,7 +285,7 @@ Symbol, Stun - 震慑徽记
 等级 9
 
 Absolute Immunity - 绝对免疫
-Bigby's Crushing Hand - 毕格比粉碎掌
+Bigby's Crushing Hand - 比格拜粉碎掌
 Black Blade of Disaster - 灾厄黑刃
 Chain Contingency - 连锁触发术
 Energy Drain - 能量汲取
@@ -512,7 +512,7 @@ Den of Seven vales - 七谷之巢
 Cowled wizards - 蒙面巫师
 Night Knives - 夜匕
 Most Noble Order of the Radiant Heart - 至崇高光辉之心骑士团
-Council of Six - 六人议会
+Council of Six - 六人评议会
 Flaming Fist - 焰拳佣兵团
 Iron Throne - 铁王座
 Shadow Thieves - 影贼
@@ -558,7 +558,7 @@ Temple of the Stormlord - 风暴领主神殿
 
 Shadow altar - 暗影祭坛
 Shadow portal - 暗影传送门
-Shadow Lord - 暗影之主
+Shadow Lord - 影主
 
 Time of Troubles - 动荡之年
 The Year of The Burning Sky - 燃空之年
@@ -627,7 +627,7 @@ lich - 巫妖
 Mimic - 拟形怪
 mindflayer - 夺心魔
 miniature giant space hamster - 迷你巨型太空仓鼠
-necromancer - 死灵法师
+necromancer - 死灵师
 ogre - 食人魔
 ooze - 软泥怪
 orog - 奥罗格兽人
@@ -694,7 +694,7 @@ Auril - 欧吕尔 (寒冬女神)
 Azuth - 阿祖斯 (法师之神)
 Bane - 班恩 (纷争、暴政、仇恨之神)
 Beshaba - 本莎芭 (厄运女神)
-Bhaal - 巴尔 (谋杀之神)
+Bhaal - 巴尔 (谋杀之王)
 Chauntea - 裳提亚 (农业、自然女神)
 Cyric - 希瑞克 (谎言、谋杀、暴政之神)
 Deneir - 迪尼尔 (文学、书写之神)
@@ -744,7 +744,7 @@ Sehanine - 莎罕妮 (月神)
 Solonor Thelandira - 索罗诺尔·杉岚德瑞 (狩猎、箭术之神)
 
 矮人神系
-Moradin - 莫拉丁 (矮人创造者，矮人神系之首)
+Moradin - 摩拉丁 (矮人创造者，矮人神系之首)
 Abbathor - 阿巴索 (唯一邪恶的矮人之神)
 Berronar Truesilver - 蓓伦妮·真银 (婚姻、爱情、家庭女神)
 Clangeddin Silverbeard - 克兰贾汀·银须 (战争之神)
